@@ -70,7 +70,7 @@
 ## 📫 How to reach me
 - 💬 **GitHub Issues**: [이슈 생성](https://github.com/wingedcoder/wingedcoder/issues) - 문의사항이나 질문
 - 🤝 **GitHub Discussions**: [토론 참여](https://github.com/wingedcoder/wingedcoder/discussions) - 협업이나 일반 대화
-- 🌐 **웹사이트**: [minthands.com](https://minthands.com)
+- 🌐 **웹사이트**: [minthands.com](http://minthands.com)
 - 💼 **LinkedIn**: [wingedcoder](https://linkedin.com/in/wingedcoder)
 - 🐦 **Twitter**: [@wingedcoder](https://twitter.com/wingedcoder)  
 - 📷 **Instagram**: [@winged_coder](https://instagram.com/winged_coder)
