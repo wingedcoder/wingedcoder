@@ -70,7 +70,7 @@
 ## 📫 How to reach me
 - 💬 **GitHub Issues**: [Open an issue](https://github.com/wingedcoder/wingedcoder/issues) for inquiries and questions
 - 🤝 **GitHub Discussions**: [Join discussions](https://github.com/wingedcoder/wingedcoder/discussions) for collaboration
-- 🌐 **Website**: [minthands.com](https://minthands.com)
+- 🌐 **Website**: [minthands.com](http://minthands.com)
 - 💼 **LinkedIn**: [wingedcoder](https://linkedin.com/in/wingedcoder)
 - 🐦 **Twitter**: [@wingedcoder](https://twitter.com/wingedcoder)
 - 📷 **Instagram**: [@winged_coder](https://instagram.com/winged_coder)
